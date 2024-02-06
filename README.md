@@ -13,5 +13,6 @@ Visual representation of sorting algorithms, including Bubble Sort, Quick Sort, 
 Adjustable speed control for visualization.
 User-friendly GUI for easy interaction and customization of parameters.
 Display of time spent on sorting for performance evaluation.
+
 Purpose
 The Sorting Algorithm Visualization project serves as a valuable resource for individuals looking to comprehend sorting algorithms visually. By providing a hands-on learning experience, it helps users grasp the fundamental concepts of algorithmic sorting techniques and gain insights into their efficiency and performance characteristics.
